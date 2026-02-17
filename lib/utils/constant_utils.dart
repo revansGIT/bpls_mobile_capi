@@ -1,0 +1,1 @@
+enum USERConstant { ROLE_ADMIN, ROLE_UNCONFIRMED }
